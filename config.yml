@@ -14,7 +14,8 @@
 ##      - connector_id: changeme # the ID of the connector.
 ##        service_type: changeme # The service type of the connector.
 ##        api_key: changeme # The Elasticsearch API key used to write data into the content index.
-connectors: 
+connectors:
+-
   connector_id: "OTPolIsB4no8P1aAq6NH"
   service_type: "google_drive"
   api_key: "czFMcGxJc0J5M3F2Uk5hQnJIMlE6eVBVMmppR3ZTczZVb3prMVh0c0pyQQ=="
